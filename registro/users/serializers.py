@@ -17,13 +17,13 @@ class UsuarioSerializer(serializers.ModelSerializer):
 
 
 """
-        {
+    {
     "nombre": "Ejemplo",
     "apellidos": "Apellido",
     "correo_electronico": "ejemplo@example.com",
     "pais": "Ejemplo",
     "password1": "contraseña123",
     "password2": "contraseña123"
-}
+    }
 
 """
